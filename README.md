@@ -40,7 +40,7 @@ To use the get_next_line function in your projects, follow these steps:
 
 1. Clone the repository:
    ```shell
-   git clone [https://github.com/your-username/get_next_line.git](https://github.com/V4R3J4O/GET_NEXT_LINE.git)
+   git clone https://github.com/V4R3J4O/GET_NEXT_LINE.git
 
 2. Change to the project directory:
     ```shell
